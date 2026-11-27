@@ -38,5 +38,3 @@ Here's the full journey, one project per folder in your `systems-from-scratch` r
 *Learn:* how everything above (memory, threads, cache, parallel math) powers real AI.
 
 ---
-
-Back to where we paused: answer the **4 check questions** from Step 1 (PC, decode `0x7A03`, where the return address goes, the `0x12 0x34` instruction), then we'll start Step 2. Want this list saved as a doc so you can tick projects off as you go?
